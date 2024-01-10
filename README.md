@@ -43,11 +43,11 @@
 </p>
 <br>
 
-[![KHDEVAM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FoggyKAdev&theme=tokyo-night)](https://github.com/KHDEVAM/github-readme-activity-graph)
+[![FoggyKAdev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FoggyKAdev&theme=tokyo-night)](https://github.com/FoggyKAdev/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/KHDEVAM">
+<a href="https://github.com/FoggyKAdev">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FoggyKAdev&theme=algolia" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FoggyKAdev&theme=algolia" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FoggyKAdev&theme=algolia" height="180em" />
